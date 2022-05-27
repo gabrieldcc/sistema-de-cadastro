@@ -5,5 +5,5 @@
 Para instalar esse projeto, por favor digite no terminal:
 
 ````
-npm install react
+node install react
 ````
